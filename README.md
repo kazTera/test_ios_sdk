@@ -1,4 +1,4 @@
-# Test iOS SDK
+# OEM iOS SDK
 
 ## [日本語](SDK-Manual-ja.md)
 
