@@ -1,6 +1,6 @@
-# Geniee iOS SDK
+# OEM iOS SDK
 
-Geniee iOS SDK は、iOS アプリケーション内に広告を表示するための Ad SDK です。
+OEM iOS SDK は、iOS アプリケーション内に広告を表示するための Ad SDK です。
 
 以下の機能を備えています。  
 - 広告の表示
@@ -9,9 +9,9 @@ Geniee iOS SDK は、iOS アプリケーション内に広告を表示するた�
 
 ## ダウンロード
 
-以下の URL から Geniee iOS SDK をダウンロードします。
+以下の URL から OEM iOS SDK をダウンロードします。
 
-- **[Geniee-iOS-SDK](https://github.com/geniee-ssp/Geniee-iOS-SDK/releases)**
+- **[OEM-iOS-SDK](https://github.com/geniee-ssp/Geniee-iOS-SDK/releases)**
 
 ## 組み込み手順
 
