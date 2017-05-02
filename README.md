@@ -1,4 +1,4 @@
-# Geniee iOS SDK
+# Test iOS SDK
 
 ## [日本語](SDK-Manual-ja.md)
 
