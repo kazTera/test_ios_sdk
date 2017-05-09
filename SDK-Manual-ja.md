@@ -16,7 +16,7 @@ OEM iOS SDK は、iOS アプリケーション内に広告を表示するため�
 ## 組み込み手順
 
 組み込み手順は、以下のドキュメントを参照してください。  
-<https://github.com/geniee-ssp/Geniee-iOS-SDK/wiki>
+<https://github.com/kazTera/test_ios_sdk/wiki>
 
 ## バージョン新機能
 
